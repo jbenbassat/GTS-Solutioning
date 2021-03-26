@@ -6,7 +6,9 @@ NetApp provides training in several formats, free-of-charge to IBM partners.
    * [Kerry Edwards (EMEA, India)](edwark2@uk.ibm.com). 
 * NetApp also provides an extensive lab environment at our [Lab on Demand](https://labondemand.netapp.com) site.  
 
-In order to access NetApp training you must have a NetApp Support Site (NSS) ID associated with your IBM email address. Following are instructions for creating a NSS account:
+### Netapp Support Site (NSS) Account
+
+In order to access NetApp training you must have a NSS ID associated with your IBM email address. Following are instructions for creating a NSS account:
 
 1. 	Go to [http://support.netapp.com](http://support.netapp.com) and click **Register Now** or go
 directly to the registration page at [http://support.netapp.com/eservice/public/now.do](http://support.netapp.com/eservice/public/now.do).  
@@ -21,6 +23,6 @@ directly to the registration page at [http://support.netapp.com/eservice/public/
 5. On the final page, create a login name, password and password hint. Click the submit button to start the approval process. You should be granted access within 48 hours.
 
 6. After you receive a confirmation via email that your account has been created, log-in to the [NetApp Learning Center](https://learningcenter.netapp.com) to activate your account.
-If you need any support, please contact NetApp Support Site administration
-[nssadmin@netapp.com](mailto:nssadmin@netapp.com)
+
+If you need any support, please contact NetApp Support Site administration [nssadmin@netapp.com](nssadmin@netapp.com)
    
