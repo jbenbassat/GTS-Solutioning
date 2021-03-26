@@ -1,10 +1,15 @@
 # NetApp Training
-NetApp provides training in several formats, free-of-charge to IBM partners. 
-* Self-paced, web-based training is available via the [NetApp Learning Center](https://learningcenter.netapp.com). 
-* Formal, instructor-led training courses, which can be taken online or onsite, are provided on a quarterly basis and can be requested through one of the following IBM POCs:
-   * [Karen Haberli (Americas)](haberli@us.ibm.com)
-   * [Kerry Edwards (EMEA, India)](edwark2@uk.ibm.com). 
-* NetApp also provides an extensive lab environment at our [Lab on Demand](https://labondemand.netapp.com) site.  
+
+NetApp provides training in several formats, free-of-charge to IBM partners.  
+
+* Self-paced, web-based training is available via the [NetApp Learning Center](https://learningcenter.netapp.com).  
+
+* Formal, instructor-led training courses, which can be taken online or onsite, are provided on a quarterly basis and can be requested through one of the following IBM POCs:  
+  
+  * [Karen Haberli (Americas)](haberli@us.ibm.com)  
+  * [Kerry Edwards (EMEA, India)](edwark2@uk.ibm.com). 
+
+* NetApp also provides an extensive lab environment at our [Lab on Demand](https://labondemand.netapp.com) site. 
 
 ### Netapp Support Site (NSS) Account
 
