@@ -1,11 +1,7 @@
-NETAPP UNIVERSITY
-## How to Register for a Partner Support Site Account
+# NetApp Training
+NetApp training free-of-charge to IBM partners in many formats. Self-paced, web-based training is available via the [NetApp Learning Center](https://learningcenter.netapp.com). Formal, instructor-led training courses are provided on a quarterly basis and can be requested through [Karen Haberli (Americas)](haberli@us.ibm.com) or [Kerry Edwards (EMEA, India)](edwark2@uk.ibm.com). NetApp also provides an extensive lab environment at our [Lab on Demand](https://labondemand.netapp.com) site.  
 
-### Partner Support Site Account
-A Partner Support Site Account is required to register for NetApp online training (free of charge) and for live training.
-Additionally, a NetApp Support Site Account enables access to several useful tools, information and updates.  
-
-Register for an account:  
+In order to access NetApp training you must have a NetApp Support Site (NSS) ID associated with your IBM email address. Following are instructions for creating a NSS account:
 
 1. 	Go to [http://support.netapp.com](http://support.netapp.com) and click **Register Now** or go
 directly to the registration page at [http://support.netapp.com/eservice/public/now.do](http://support.netapp.com/eservice/public/now.do).  
