@@ -8,8 +8,4 @@ Once your location is setup, you can create Satellite-enabled services, such as 
 
 Many of these containerize applications require persistent storage. This is where NetApp [Trident](https://netapp-trident.readthedocs.io/en/stable-v21.01/introduction.html) comes in. NetApp Trident is a Container Storage Interface (CSI) compliant storage orchestrator that can provision persistent storage for your containerized applications across all popular NetApp storage platform, including: traditional on-prem [FAS](https://www.netapp.com/data-storage/fas/) or [AFF](https://www.netapp.com/data-storage/aff-a-series/) storage devices, our Software-Defined-Storage, [ONTAP Select](https://www.netapp.com/data-management/software-defined-storage-ontap-select/), which runs ONTAP software on your commodity hardware or in the [IBM Cloud](https://cloud.ibm.com), or in the public cloud, such as [Azure NetApp Files](https://cloud.netapp.com/azure-netapp-files) or [Cloud Volumes ONTAP](https://cloud.netapp.com/ontap-cloud) for AWS or  Google Cloud.
 
-To learn more about the Trident storage orchestrator, visit these links:
-
-* [What is Trident?](https://netapp-trident.readthedocs.io/en/stable-v21.01/introduction.html)
-* [Getting started with Trident](https://netapp.io/persistent-storage-provisioner-for-kubernetes/)
-* [NetApp Trident Public Github repository](https://github.com/NetApp/trident/blob/stable/v21.01/docs/kubernetes/index.rst)
+Learn more about the Trident storage orchestrator [here](../Trident/Trident.md).
