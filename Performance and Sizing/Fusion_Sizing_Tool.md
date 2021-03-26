@@ -6,7 +6,7 @@ requirements.
 
 ### Accessing NetApp Fusion
 NetApp Fusion is available to NetApp Employees and qualified Partners, such as IBM.  To access Fusion,
-you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-(nss)-site) to create one.
+you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-(nss)-site-account) to create one.
 
 Fusion can be accessed at: [https://fusion.netapp.com](https://fusion.netapp.com/)
 
