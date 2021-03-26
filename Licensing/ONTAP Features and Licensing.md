@@ -55,9 +55,9 @@ ONTAP Software can be ordered with the following bundles:
 	* Fabric Pool Subscription
 * **Premium Bundle**
 	* Includes all protocols and features from the **Core Bundle**, **Data Protection Bundle** and **Security & Compliance Bundle**.
-* **Encryption** *(see NOTE below)*
+* * **Encryption** *(see NOTE below)*
 	* Volume Encryption
 	* Trusted Platform Module
 	* Data at Rest Encryption
 
-***NOTE:*** *The* ***Encription Bundle*** *is included at no charge, but is not available on systems sold to countries where Data at Rest Encryption technology is not allowed.  If you have a question about which countries are restricted, please contact your NetApp Representative.*
+***\* NOTE:*** *The* ***Encription*** *is included at no charge, but is not available on systems sold to countries where Data at Rest Encryption technology is not allowed.  If you have a question about which countries are restricted, please contact your NetApp Representative.*
