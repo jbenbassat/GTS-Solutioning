@@ -1,4 +1,4 @@
-# NetApp Training
+## NetApp Training
 
 NetApp provides training in several formats, free-of-charge to IBM partners.  
 
