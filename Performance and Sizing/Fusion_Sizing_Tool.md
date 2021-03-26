@@ -82,9 +82,9 @@ The Degraded Failover Performance OK selection allows you to set the
 performance expectations during a failover scenario when only one
 controller is operational. There are two possibilities:
 
--   **Checked (default) **- Performance degradation is expected and
+-   **Checked (default)** - Performance degradation is expected and
     acceptable during failover.
--   **Unchecked **- Performance is expected to be the same as during
+-   **Unchecked** - Performance is expected to be the same as during
     normal operation (no performance degradation).
 
 This setting affects sizing. If no degradation is expected, then both
