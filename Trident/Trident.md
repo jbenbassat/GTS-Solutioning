@@ -14,7 +14,7 @@ Container technology is an essential piece of [NetApp’s Data Fabric](https:/
 
 NetApp Trident is a Container Storage Interface (CSI) compliant storage orchestrator that can provision persistent storage for your containerized applications across all popular NetApp storage platform, including: traditional on-prem [FAS](https://www.netapp.com/data-storage/fas/) or [AFF](https://www.netapp.com/data-storage/aff-a-series/) storage devices, our Software-Defined-Storage, [ONTAP Select](https://www.netapp.com/data-management/software-defined-storage-ontap-select/), which runs ONTAP software on your commodity hardware or in the [IBM Cloud](https://cloud.ibm.com), or in the public cloud, such as [Azure NetApp Files](https://cloud.netapp.com/azure-netapp-files) or [Cloud Volumes ONTAP](https://cloud.netapp.com/ontap-cloud) for AWS or  Google Cloud.
 
-For additional information on Trident, please visit:
+### For additional information on Trident, please visit:
 
 * [Getting started with Trident](https://netapp.io/persistent-storage-provisioner-for-kubernetes/)
 * [NetApp Trident Public Github repository](https://github.com/NetApp/trident/blob/stable/v21.01/docs/kubernetes/index.rst)
