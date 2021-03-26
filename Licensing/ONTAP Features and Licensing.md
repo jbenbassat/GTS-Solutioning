@@ -11,7 +11,7 @@ The table below highlights the many features and benefits that are unique to ONT
 |**Data compression**	|Provides transparent inline and postprocess data compression for data reduction	|Reduces the amount of storage you need to purchase and maintain|
 |**Deduplication**	|Performs general-purpose deduplication for removal of redundant data	|Reduces the amount of storage you need to purchase and maintain|
 |**Flash Pool™**	|Creates a mixed-media storage pool by using SSDs and HDDs	|Increases the performance and efficiency of HDD pools with flash acceleration|
-|**FlexClone®**	"|Instantaneously creates file, LUN, and volume clones without requiring additional storage"	|Saves you time in testing and development and increases your storage capacity|
+|**FlexClone®**	|Instantaneously creates file, LUN, and volume clones without requiring additional storage"	|Saves you time in testing and development and increases your storage capacity|
 |**FlexGroup**	|Enable a single namespace to scale up to 20PB and 400 billion files	|Support compute-intensive workload and data repositories require a massive NAS container while maintaining consistent high performance and resiliency|
 |**FlexVol®**	|Creates flexibly sized volumes across a large pool of disks and one or more RAID groups	|Enables storage systems to be used at maximum efficiency and reduces hardware investment|
 |**Headroom**	|Provides visibility of performance capacity available for deploying new workloads on storage nodes	|Simplifies management and enables more effective provisioning of new workloads to the optimal node|
@@ -20,9 +20,9 @@ The table below highlights the many features and benefits that are unique to ONT
 |**RAID DP® and RAID-TEC™**	|Provides a double-parity and triple parity RAID 6 implementation that prevents data loss when two or three drives fail	|Protects your data without the performance impact of other RAID 6 implementations; reduces risks during long rebuilds of large-capacity HDDs|
 |**SnapCenter® and SnapManager®**	|Provides host-based data management of NetApp storage for databases and business applications	|Offers application-aware backup and disaster recovery; automates error-free data restores|
 |**SnapLock**	|Provides WORM file-level locking	|Supports regulatory compliance and organizational data retention requirements|
-|**SnapMirror**	"|Enables automatic, incremental asynchronous data replication between systems"	|Provides you with flexibility and efficiency when mirroring for data distribution and disaster recovery|
-|**SnapRestore®**	"|Rapidly restores single files, directories, or entire LUNs and volumes from any Snapshot copy backup"	"|Instantaneously recovers files, databases, and complete volumes from your backup|"
-|**Snapshot**	"|Makes incremental data-in-place, point-in-time copies of a LUN or volume with minimal performance impact"	|Enables you to create frequent space-efficient backups with no disruption to data traffic|
+|**SnapMirror**	|Enables automatic, incremental asynchronous data replication between systems	|Provides you with flexibility and efficiency when mirroring for data distribution and disaster recovery|
+|**SnapRestore®** |Rapidly restores single files, directories, or entire LUNs and volumes from any Snapshot copy backup |Instantaneously recovers files, databases, and complete volumes from your backup|
+|**Snapshot**	|Makes incremental data-in-place, point-in-time copies of a LUN or volume with minimal performance impact"	|Enables you to create frequent space-efficient backups with no disruption to data traffic|
 |**Volume encryption**	|Provides data-at-rest encryption that is built into ONTAP	|Lets you easily and efficiency protect your-at-last data by encrypting any volume on an AFF or FAS system; no special encrypting disks are required|
 
 
