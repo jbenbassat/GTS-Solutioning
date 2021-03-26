@@ -35,7 +35,7 @@ ONTAP 9.x licensed software entitlement is to a hardware product’s unique seri
 Platforms sold with ONTAP 9.x are priced based on storage capacity configured with the system. Both ONTAP and the feature software is sold based on storage capacity, however the license keys are still locked to the controller serial number and do not control capacity usage. 
 ONTAP Software can be ordered with the following bundles:
   
-* **Core Bundle**
+* **Core Bundle** *(included with all ONTAP systems)*
 	* CIFS/SMB
 	* FCP
 	* iSCSI
@@ -53,11 +53,11 @@ ONTAP Software can be ordered with the following bundles:
 	* SnapLock
 	* Hybrid Cloud:
 	* Fabric Pool Subscription
+* **Premium Bundle**
+	* Includes all protocols and features from the **Core Bundle**, **Data Protection Bundle** and **Security & Compliance Bundle**.
 * **Encryption** *(see NOTE below)*
 	* Volume Encryption
 	* Trusted Platform Module
 	* Data at Rest Encryption
-
-The **Core Bundle** is included with all ONTAP systems.  The **Data Protection Bundle** and **Security & Compliance Bundle* can be added individually, or you can select **Premium Bundle**, which includes all three.
 
 ***NOTE:*** *The* ***Encription Bundle*** *is included at no charge, but is not available on systems sold to countries where Data at Rest Encryption technology is not allowed.  If you have a question about which countries are restricted, please contact your NetApp Representative.*
