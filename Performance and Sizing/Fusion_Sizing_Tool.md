@@ -6,7 +6,7 @@ requirements.
 
 ### Accessing NetApp Fusion
 NetApp Fusion is available to NetApp Employees and qualified Partners, such as IBM.  To access Fusion,
-you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-(nss)-site-account) to create one.
+you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-site-account) to create one.
 
 Fusion can be accessed at: [https://fusion.netapp.com](https://fusion.netapp.com/)
 
@@ -501,9 +501,9 @@ System lines shows the headroom available to add more drives to the
 configuration until you reach the maximum system performance.
 
 
-### Register for a Netapp Support Site (NSS) Account
+### Register for a Netapp Support Site Account
 
-In order to access NetApp training you must have a NSS ID associated with your IBM email address. Following are instructions for creating a NSS account:
+In order to access NetApp training you must have a NetApp Support Site ID associated with your IBM email address. Following are instructions for creating a NSS account:
 
 1. 	Go to [http://support.netapp.com](http://support.netapp.com) and click **Register Now** or go
 directly to the registration page at [http://support.netapp.com/eservice/public/now.do](http://support.netapp.com/eservice/public/now.do).  
