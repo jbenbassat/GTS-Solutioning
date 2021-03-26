@@ -6,7 +6,7 @@ requirements.
 
 ### Accessing NetApp Fusion
 NetApp Fusion is available to NetApp Employees and qualified Partners, such as IBM.  To access Fusion,
-you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-site-account) to create one.
+you will need a NetApp Support Site (NSS) ID to access Fusion.  If you do not have a NSS ID, please follow the instructions [here](#register-for-a-netapp-support-site-\(nss\)-account) to create one.
 
 Fusion can be accessed at: [https://fusion.netapp.com](https://fusion.netapp.com/)
 
@@ -501,12 +501,9 @@ System lines shows the headroom available to add more drives to the
 configuration until you reach the maximum system performance.
 
 
-## Register for a NetApp Support Site Account
+### Register for a Netapp Support Site (NSS) Account
 
-A Partner Support Site Account is required to register for NetApp online training (free of charge) and for live training.
-Additionally, a NetApp Support Site Account enables access to several useful tools, information and updates.  
-
-Register for an account:  
+In order to access NetApp training you must have a NSS ID associated with your IBM email address. Following are instructions for creating a NSS account:
 
 1. 	Go to [http://support.netapp.com](http://support.netapp.com) and click **Register Now** or go
 directly to the registration page at [http://support.netapp.com/eservice/public/now.do](http://support.netapp.com/eservice/public/now.do).  
@@ -521,6 +518,5 @@ directly to the registration page at [http://support.netapp.com/eservice/public/
 5. On the final page, create a login name, password and password hint. Click the submit button to start the approval process. You should be granted access within 48 hours.
 
 6. After you receive a confirmation via email that your account has been created, log-in to the [NetApp Learning Center](https://learningcenter.netapp.com) to activate your account.
-If you need any support, please contact NetApp Support Site administration
-[nssadmin@netapp.com](mailto:nssadmin@netapp.com)
-   
+
+If you need any support, please contact NetApp Support Site administration [nssadmin@netapp.com](nssadmin@netapp.com)
