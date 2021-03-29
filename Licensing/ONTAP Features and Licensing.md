@@ -6,11 +6,11 @@
 
 !!! info "Status"
 
-	- [X] Structure
-	- [X] Draft
-	- [ ] Reviewed
-	- [ ] Ready
-	- [ ] Published
+- [X] Structure
+- [X] Draft
+- [ ] Reviewed
+- [ ] Ready
+- [ ] Published
 
 !!! info "Classification"
 	
