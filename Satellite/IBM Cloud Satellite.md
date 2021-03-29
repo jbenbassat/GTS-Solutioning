@@ -1,5 +1,22 @@
 ## IBM Cloud Satellite
 
+!!! info "Page Owner: Troy Hess"
+
+!!! info "Solutions Engineer - IBM and RedHat Alliances "
+
+!!! info "Status"
+
+	- [X] Structure
+	- [X] Draft
+	- [ ] Reviewed
+	- [ ] Ready
+	- [ ] Published
+
+!!! info "Classification"
+	
+	- [ ] IBM Confidential
+	- [X] Public
+
 [IBM Cloud Satellite](https://www.ibm.com/cloud/satellite) provides a distributed cloud capability,  empowers businesses to realize the full business value of hybrid cloud, putting workloads wherever they need them, and deploying and running apps consistently across any on-premises, edge computing, and public cloud environment.
 
 IBM Cloud Satellite starts with creating a **Location** from your IBM Cloud account and selecting an [IBM Cloud Region](https://cloud.ibm.com/docs/satellite?topic=satellite-sat-regions#understand-supported-regions) you want to use to manage your location. A Satellite location can be an edge location, on-prem datacenter or any public cloud where you run and extend IBM Cloud services. Your location will be made up of hosts (VMs, bare metal servers, etc.) which will serve as compute nodes assigned and attached to your Satellite location control plane.
