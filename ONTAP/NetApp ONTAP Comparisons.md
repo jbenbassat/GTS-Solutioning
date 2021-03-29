@@ -5,17 +5,15 @@
 !!! info "Solutions Engineer - IBM and RedHat Alliances "
 
 !!! info "Status"
-
-	- [X] Structure
-	- [X] Draft
-	- [ ] Reviewed
-	- [ ] Ready
-	- [ ] Published
+- [X] Structure
+- [X] Draft
+- [ ] Reviewed
+- [ ] Ready
+- [ ] Published
 
 !!! info "Classification"
-
-	- [ ] IBM Confidential
-	- [X] Public
+- [ ] IBM Confidential
+- [X] Public
 
 |  | AFF | FAS | Cloud Volumes ONTAP (CVO) | ONTAP Select (OTS) |
 | --- | :---: | :---: | :---: | :---: | 
