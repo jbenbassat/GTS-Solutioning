@@ -32,7 +32,8 @@
 | Supported by NetApp Trident? | Yes | Yes | Yes | Yes |
 | DR/Replication<sup>1</sup> | To/From Any ONTAP Listed Here | To/From Any ONTAP Listed Here | To/From Any ONTAP Listed Here | To/From Any ONTAP Listed Here |
 | Protoclos | FCP, NFS, CIFS, iSCSI | FCP, NFS, CIFS, iSCSI | iSCSI, NFS, CIFS | iSCSI, NFS, CIFS |
-| More Info | [AFF All Flash Storage Arrays](https://www.netapp.com/data-storage/aff-a-series/) | [FAS Hybrid Storage Arrays](https://www.netapp.com/data-storage/fas/) | [Cloud Volumes ONTAP](https://www.netapp.com/cloud-services/cloud-volumes-ontap/) | [ONTAP Select Software Defined Storage ](https://www.netapp.com/data-management/software-defined-storage-ontap-select/) |  
+| More Info | [AFF All Flash Storage Arrays](https://www.netapp.com/data-storage/aff-a-series/) | [FAS Hybrid Storage Arrays](https://www.netapp.com/data-storage/fas/) | [Cloud Volumes ONTAP](https://www.netapp.com/cloud-services/cloud-volumes-ontap/) | [ONTAP Select Software Defined Storage ](https://www.netapp.com/data-management/software-defined-storage-ontap-select/) |
+
 *<sup>1</sup> Within the same major release*
 
 
