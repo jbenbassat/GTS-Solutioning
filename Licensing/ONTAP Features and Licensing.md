@@ -1,5 +1,23 @@
 ## NetApp ONTAP Software Features & Licensing Model
 
+!!! info "Page Owner: Troy Hess"
+
+!!! info "Solutions Engineer - IBM and RedHat Alliances "
+
+!!! info "Status"
+
+	- [X] Structure
+	- [X] Draft
+	- [ ] Reviewed
+	- [ ] Ready
+	- [ ] Published
+
+!!! info "Classification"
+	
+	- [ ] IBM Confidential
+	- [X] Public
+
+
 ONTAP is the software operating system for NetApp Fabric Attached Storage (FAS) and All-Flash FAS (AFF)Following is a brief description of NetApp ONTAP software features, how NetApp systems with ONTAP are licensed, and the software bundles available with ONTAP.  ***For more detailed information on ONTAP software licensing or pricing, please contact your NetApp sales representative.***
 
 ### ONTAP Software Features
