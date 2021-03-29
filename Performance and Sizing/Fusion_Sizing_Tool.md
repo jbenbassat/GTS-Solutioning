@@ -5,19 +5,15 @@
 !!! info "Solutions Engineer - IBM and RedHat Alliances "
 
 !!! info "Status"
-
-	- [X] Structure
-	- [X] Draft
-	- [ ] Reviewed
-	- [ ] Ready
-	- [ ] Published
+- [X] Structure
+- [X] Draft
+- [ ] Reviewed
+- [ ] Ready
+- [ ] Published
 
 !!! info "Classification"
-	
-	- [ ] IBM Confidential
-	- [X] Public
-
-
+- [ ] IBM Confidential
+- [X] Public
 NetApp Fusion is a web-based application that allows users to size and
 design recommended storage solutions based on performance and capacity
 requirements. 
