@@ -7,17 +7,15 @@ NetApp provides training in several formats, free-of-charge to IBM partners.
 !!! info "Solutions Engineer - IBM and RedHat Alliances "
 
 !!! info "Status"
-
-	- [X] Structure
-	- [X] Draft
-	- [ ] Reviewed
-	- [ ] Ready
-	- [ ] Published
+- [X] Structure
+- [X] Draft
+- [ ] Reviewed
+- [ ] Ready
+- [ ] Published
 
 !!! info "Classification"
-	
-	- [ ] IBM Confidential
-	- [X] Public
+- [ ] IBM Confidential
+- [X] Public
 
 * Self-paced, web-based training is available via the [NetApp Learning Center](https://learningcenter.netapp.com).  
 
