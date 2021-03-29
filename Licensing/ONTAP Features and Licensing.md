@@ -56,3 +56,5 @@ ONTAP Software can be ordered with the following bundles:
 * **Premium Software Bundle** - Includes all protocols and features from the Core, Data Protection and Security & Compliance Bundles.
 
 **\* NOTE:** NetApp includes **Volume Encryption** and **Data-at-Rest Encryption** free-of-charge, however, certain countries require special authorizations, permits, or licenses to import, export, re-export or use this software. For example, a state license for importing encryption equipment is required to import ONTAP 9.1 (or later) with NetApp Volume Encryption into Member States of the Eurasian Economic Union: Russia, Belarus, Kazakhstan, Armenia, and Kyrgyzstan. For countries on the "Restricted" list, NetApp offers a **NODAR** (NO Data-At-Rest) version of ONTAP. If you have a question about which countries are restricted, or if you need the system installed with a NODAR version of ONTAP please consult with your NetApp Representative.
+
+**You can find more information about ONTAP Software [here](https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf).**
