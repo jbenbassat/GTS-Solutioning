@@ -5,17 +5,15 @@
 !!! info "Solutions Engineer - IBM and RedHat Alliances "
 
 !!! info "Status"
-
-	- [X] Structure
-	- [X] Draft
-	- [ ] Reviewed
-	- [ ] Ready
-	- [ ] Published
+- [X] Structure
+- [X] Draft
+- [ ] Reviewed
+- [ ] Ready
+- [ ] Published
 
 !!! info "Classification"
-	
-	- [ ] IBM Confidential
-	- [X] Public
+- [ ] IBM Confidential
+- [X] Public
 
 [IBM Cloud Satellite](https://www.ibm.com/cloud/satellite) provides a distributed cloud capability,  empowers businesses to realize the full business value of hybrid cloud, putting workloads wherever they need them, and deploying and running apps consistently across any on-premises, edge computing, and public cloud environment.
 
